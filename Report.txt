@@ -1,0 +1,22 @@
+INVENTORY
+Potato Chips | 20
+Ibuprofen | 10
+Candy | 4
+Coffee | 55
+Hummus | 12
+Guacamole | 12
+Baklava | 7
+Chocolate Chip Cookies | 45
+Sushi | 3
+Italian Sub | 4
+Calamari | 8
+
+CASH REGISTER
+Pennies | 50
+Nickels | 40
+Dimes | 50
+Quarters | 40
+One Dollar Bills | 10
+Five Dollar Bills | 10
+Ten Dollar Bills | 10
+Twenty Dollar Bills | 0
